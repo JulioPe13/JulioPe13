@@ -1,7 +1,19 @@
 # Julio Peña:
 💫I'm Julio Peña, developer In Panamá 
-<br>💬 Ask me about<br>⚡ Fun fact
+<br>Licenciado en Gestión de Tecnologías de la Información | Técnico en Programación Empresarial
+<br>
+💡 Apasionado por:
+Programación full-stack
 
+👨‍💻Arquitecturas eficientes
+
+✔Integración de tecnologías empresariales
+
+⚡Optimización de sistemas
+
+🚀 Busco combinar visión estratégica con habilidades técnicas para crear soluciones innovadoras.
+
+"Transformar problemas complejos en código funcional"
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/julio_elias13) 
