@@ -1,4 +1,4 @@
-# Julio Peña:
+# Julio Peña
 💫I'm Julio Peña, developer In Panamá 
 <br>Licenciado en Gestión de Tecnologías de la Información | Técnico en Programación Empresarial
 <br>
